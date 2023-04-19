@@ -1,0 +1,119 @@
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\OculusAccountSwapper.exe.config
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\OculusAccountSwapper.exe
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\OculusAccountSwapper.pdb
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.AssemblyReference.cache
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.SuggestedBindingRedirects.cache
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Form1.resources
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Properties.Resources.resources
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.GenerateResource.cache
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.CoreCompileInputs.cache
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.exe
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.pdb
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.exe.manifest
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.TrustInfo.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\OculusAccountSwapper.exe.manifest
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\OculusAccountSwapper.application
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.application
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\DotNetZip.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\DotNetZip.pdb
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\DotNetZip.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Extracting.resources
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Progressing.resources
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.swapper.resources
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.CopyComplete
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\Castle.Core.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\FlaUI.Core.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\FlaUI.UIA3.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\Interop.UIAutomationClient.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\Newtonsoft.Json.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\SeleniumExtras.PageObjects.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\TestStack.White.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\WebDriver.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\WebDriver.Support.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\Castle.Core.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\FlaUI.Core.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\FlaUI.UIA3.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\Newtonsoft.Json.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\TestStack.White.pdb
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\TestStack.White.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\Interop.AutoItX3Lib.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.ResolveComReference.cache
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Finish.resources
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Meta.resources
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Welcome.resources
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.CodeDom.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.Diagnostics.PerformanceCounter.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.Drawing.Common.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.Security.AccessControl.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.Security.Permissions.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.CodeDom.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.Diagnostics.PerformanceCounter.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.Drawing.Common.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.Security.AccessControl.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.Security.Permissions.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Form2.resources
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\bin\Release\AE.Net.Mail.dll
+C:\Users\TheLaw-\source\repos\OculusAccountSwapper\OculusAccountSwapper\obj\Release\OculusAccountSwapper.PassCodeForm.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.ResolveComReference.cache
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Extracting.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Finish.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Form1.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Form2.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Meta.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.PassCodeForm.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Progressing.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Properties.Resources.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.swapper.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.Welcome.resources
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.TrustInfo.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.exe
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.pdb
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\OculusAccountSwapper.exe.config
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\OculusAccountSwapper.exe.manifest
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\OculusAccountSwapper.application
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\OculusAccountSwapper.exe
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\OculusAccountSwapper.pdb
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\AE.Net.Mail.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\Castle.Core.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\DotNetZip.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\FlaUI.Core.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\FlaUI.UIA3.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\Interop.UIAutomationClient.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\Microsoft.Win32.Registry.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\Newtonsoft.Json.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\SeleniumExtras.PageObjects.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.CodeDom.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.Drawing.Common.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.Security.AccessControl.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.Security.Permissions.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\TestStack.White.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\WebDriver.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\WebDriver.Support.dll
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\Castle.Core.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\DotNetZip.pdb
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\DotNetZip.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\FlaUI.Core.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\FlaUI.UIA3.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\Microsoft.Win32.Registry.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\Newtonsoft.Json.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.CodeDom.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.Drawing.Common.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.Security.AccessControl.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.Security.Permissions.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\TestStack.White.pdb
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\bin\Release\TestStack.White.xml
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.exe.manifest
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.application
+C:\Users\Nathan\Desktop\Oculus Account Tools\OculusAccountSwapper\obj\Release\OculusAccountSwapper.csproj.CopyComplete
